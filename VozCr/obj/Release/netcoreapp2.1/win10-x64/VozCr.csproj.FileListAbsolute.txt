@@ -1,0 +1,14 @@
+E:\Tools\VozCr\VozCr\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+E:\Tools\VozCr\VozCr\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+E:\Tools\VozCr\VozCr\bin\Release\netcoreapp2.1\win10-x64\VozCr.exe
+E:\Tools\VozCr\VozCr\bin\Release\netcoreapp2.1\win10-x64\VozCr.deps.json
+E:\Tools\VozCr\VozCr\bin\Release\netcoreapp2.1\win10-x64\VozCr.runtimeconfig.json
+E:\Tools\VozCr\VozCr\bin\Release\netcoreapp2.1\win10-x64\VozCr.runtimeconfig.dev.json
+E:\Tools\VozCr\VozCr\bin\Release\netcoreapp2.1\win10-x64\VozCr.dll
+E:\Tools\VozCr\VozCr\bin\Release\netcoreapp2.1\win10-x64\VozCr.pdb
+E:\Tools\VozCr\VozCr\obj\Release\netcoreapp2.1\win10-x64\VozCr.csprojAssemblyReference.cache
+E:\Tools\VozCr\VozCr\obj\Release\netcoreapp2.1\win10-x64\VozCr.csproj.CoreCompileInputs.cache
+E:\Tools\VozCr\VozCr\obj\Release\netcoreapp2.1\win10-x64\VozCr.AssemblyInfoInputs.cache
+E:\Tools\VozCr\VozCr\obj\Release\netcoreapp2.1\win10-x64\VozCr.AssemblyInfo.cs
+E:\Tools\VozCr\VozCr\obj\Release\netcoreapp2.1\win10-x64\VozCr.dll
+E:\Tools\VozCr\VozCr\obj\Release\netcoreapp2.1\win10-x64\VozCr.pdb

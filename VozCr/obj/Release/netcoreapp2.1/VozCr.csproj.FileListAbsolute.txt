@@ -1,0 +1,11 @@
+E:\Tools\VozCr\VozCr\bin\Release\netcoreapp2.1\VozCr.deps.json
+E:\Tools\VozCr\VozCr\bin\Release\netcoreapp2.1\VozCr.runtimeconfig.json
+E:\Tools\VozCr\VozCr\bin\Release\netcoreapp2.1\VozCr.runtimeconfig.dev.json
+E:\Tools\VozCr\VozCr\bin\Release\netcoreapp2.1\VozCr.dll
+E:\Tools\VozCr\VozCr\bin\Release\netcoreapp2.1\VozCr.pdb
+E:\Tools\VozCr\VozCr\obj\Release\netcoreapp2.1\VozCr.csproj.CoreCompileInputs.cache
+E:\Tools\VozCr\VozCr\obj\Release\netcoreapp2.1\VozCr.AssemblyInfoInputs.cache
+E:\Tools\VozCr\VozCr\obj\Release\netcoreapp2.1\VozCr.AssemblyInfo.cs
+E:\Tools\VozCr\VozCr\obj\Release\netcoreapp2.1\VozCr.dll
+E:\Tools\VozCr\VozCr\obj\Release\netcoreapp2.1\VozCr.pdb
+E:\Tools\VozCr\VozCr\obj\Release\netcoreapp2.1\VozCr.csprojAssemblyReference.cache
